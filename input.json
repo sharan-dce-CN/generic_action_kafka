@@ -1,0 +1,7 @@
+{
+    "subscriptionList": "input",
+    "triggerList": "output",
+    "groupId": "abcd",
+    "servers": "localhost:9092",
+    "action_definition": "./actiondefinition.bal"
+}
